@@ -2,7 +2,7 @@
 // How to run the Application?
 // s1: run node index.js to start server in the terminal
 // s2: go to localhost:8080 in the browser to see the result
-
+// continue at 20th video of solar secure solutions videos to connect with the database
 
 
 
